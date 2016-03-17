@@ -1,0 +1,14 @@
+./petegg/.settings/
+./petegg/bin/
+./petegg/gen/
+
+./petegg/.project
+./petegg/.classpath
+
+./peteggLib/.settings/
+./peteggLib/bin/
+./peteggLib/gen/
+
+./peteggLib/.project
+./peteggLib/.classpath
+

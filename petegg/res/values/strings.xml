@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">petegg</string>
+    
+    <!-- tab -->
+    <string name="tab_square">广场</string>
+    <string name="tab_nearby">附近</string>
+    <string name="tab_sego">不倒蛋</string>
+    <string name="tab_petlist">榜单</string>
+    <string name="tab_personal">个人中心</string>
+    
+
+</resources>
